@@ -10,7 +10,7 @@ while k:
   
     while i<6:
         
-        print("guess the number")
+        print("guess any number")
         n=int(input())
         if n==num:
             score=score+1
